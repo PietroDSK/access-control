@@ -1,0 +1,22 @@
+{
+  "name": "@bemobile-tech/access-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "author": "",
+  "files": [
+    "lib",
+    "*.md"
+  ],
+  "license": "ISC",
+  "types": "./lib/index.d.ts"
+}
